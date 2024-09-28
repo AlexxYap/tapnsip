@@ -1,6 +1,6 @@
 let sips = 0;
 const maxSips = 3;
-const coffeeImages = ["c1.png", "c2.png", "c3.png"];
+const coffeeImages = ["c1.jpeg", "c2.jpg", "c3.jpg"];
 const sipSound = document.getElementById("sip-sound");
 
 document.getElementById("coffee-cup").addEventListener("click", function() {
