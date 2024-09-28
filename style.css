@@ -4,18 +4,18 @@ body {
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
-  }
+}
   
-  .coffee-container {
+.coffee-container {
     margin-top: 50px;
-  }
-  
-  #coffee-cup {
-    width: 200px;
+}
+
+#coffee-cup {
+    width: 300px; /* Increased size */
     cursor: pointer;
-  }
-  
-  #message {
+}
+
+#message {
     margin-top: 20px;
-    font-size: 1.2em;
-  }
+    font-size: 1.4em;
+}
